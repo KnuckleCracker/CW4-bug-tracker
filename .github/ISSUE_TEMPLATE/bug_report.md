@@ -21,7 +21,7 @@ Help us help you.
   Screenshots are here
 'C:\Users\YOUR_USER\Documents\My Games\creeperworld4\screenshots\'
 
-   Use F11, or F12 and take a screenshot of the game (if you use both, that's also great.  If you refer to a specific part of the screen, a smaller, localized screenshot helps, but the large screenshots let us see if something else in the game is an issue. 
+   Use F11, or F12(steam screenshot) and take a screenshot of the game (if you use both, that's also great).  If you refer to a specific part of the screen, a smaller, localized screenshot helps, but the large screenshots let us see if something else in the game is an issue. 
 
 4. Describe the bug 
    A clear and concise description of what the bug is. Can you recreate it? What steps is needed to recreate it? 
