@@ -14,9 +14,10 @@ Help us help you.
 2.  **It is very important that you NOT restart the game before you save the output log**
  Log file location: 
    ** Windows 10** (currently the only supported platform)
-      The log file location is here under Windows 10 (currently 
-`c:\Users\YOUR_USER\AppData\LocalLow\Knuckle Cracker\Creeper World 4\output_log.txt`
-
+      The log file location is here under Windows 10 (currently the only supported platform). 
+           `c:\Users\YOUR_USER\AppData\LocalLow\Knuckle Cracker\Creeper World 4\output_log.txt`
+      Alternately, copy and paste this short-form file location into the address bar of Windows File Explorer
+             `%LOCALAPPDATA%Low\Knuckle Cracker\Creeper World 4`
 3. Screenshots help! 
   Screenshots are here
 'C:\Users\YOUR_USER\Documents\My Games\creeperworld4\screenshots\'
