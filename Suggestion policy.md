@@ -11,7 +11,7 @@ You agree that:
 4. there is no obligation to keep any submissions confidential.
 
 ## Product Feedback
-Knuckle Cracker does, however, welcome your feedback regarding many areas of Knuckle Cracker’s existing business. If you want to send us feedback, we request that you use the forms located [on GitHub](https://github.com/KnuckleCracker/CW4-bug-tracker/issues/new/choose). Please provide only specific feedback on Knuckle Cracker LLC. ’s existing products, services and marketing strategies using those forms; and do not send or provide any submissions other than using those forms.
+Knuckle Cracker does, however, welcome your feedback regarding many areas of Knuckle Cracker’s existing business. If you want to send us feedback, we request that you use the forms located [on GitHub](https://github.com/KnuckleCracker/CW4-bug-tracker/issues/new/choose). Please provide only specific feedback on Knuckle Cracker’s existing products, services and marketing strategies using those forms; and do not send or provide any submissions other than using those forms.
 
 ## Feedback and Information
 Any feedback you provide at this site will be deemed to be non-confidential and not proprietary. Knuckle Cracker LLC.  will be free to use and redistribute such information on an unrestricted basis, without any compensation to you.
