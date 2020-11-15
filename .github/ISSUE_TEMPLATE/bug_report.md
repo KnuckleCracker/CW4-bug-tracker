@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: 'Oh noes! you found a bug - tell us about it. '
-title: "[bug] describe"
+title: "[Bug] describe"
 labels: bug
 assignees: ''
 

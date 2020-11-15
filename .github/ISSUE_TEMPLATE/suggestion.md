@@ -1,9 +1,9 @@
 ---
 name: Suggestion
 about: Suggest an idea for this project.
-title: "{Suggestion] "
+title: "[Suggestion] "
 labels: Suggestion
-assignees: ''
+assignees: Karsten75
 
 ---
 
