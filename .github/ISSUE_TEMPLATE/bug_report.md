@@ -18,13 +18,20 @@ Help us help you.
            `c:\Users\YOUR_USER\AppData\LocalLow\Knuckle Cracker\Creeper World 4\output_log.txt`
       Alternately, copy and paste this short-form file location into the address bar of Windows File Explorer
              `%LOCALAPPDATA%Low\Knuckle Cracker\Creeper World 4`
-3. Screenshots help! 
+
+3. If the error persists over a save and reload of the game, please provide the save file as well (You may have to zip it up, as the .cw4 file type is not supported as a direct upload in GitHub)
+  Each part of the game (Farsite, Chronom, Mark V, etc.( has a folder underneath the game's home directory.
+         `%HOMEPATH%\Documents\My Games\creeperworld4\saves\`
+   If you were saving in the Map Editor, then the save is in the folder for the map in 
+         `%HOMEPATH%\Documents\My Games\creeperworld4\editor\`
+
+4. Screenshots help us to **see**the problem. 
   Screenshots are here
 'C:\Users\YOUR_USER\Documents\My Games\creeperworld4\screenshots\'
 
    Use F11, or F12(steam screenshot) and take a screenshot of the game (if you use both, that's also great).  If you refer to a specific part of the screen, a smaller, localized screenshot helps, but the large screenshots let us see if something else in the game is an issue. 
 
-4. Describe the bug 
+5. Describe the bug 
    A clear and concise description of what the bug is. Can you recreate it? What steps is needed to recreate it? 
 
 **Additional context**
