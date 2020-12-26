@@ -15,7 +15,7 @@ Help us help you.
  Log file location: 
    ** Windows 10** (currently the only supported platform)
       The log file location is here under Windows 10 (currently the only supported platform). 
-           `c:\Users\YOUR_USER\AppData\LocalLow\Knuckle Cracker\Creeper World 4\output_log.txt`
+           `c:\Users\YOUR_USER\AppData\LocalLow\Knuckle Cracker\Creeper World 4\Player.log`
       Alternately, copy and paste this short-form file location into the address bar of Windows File Explorer
              `%LOCALAPPDATA%Low\Knuckle Cracker\Creeper World 4`
 
