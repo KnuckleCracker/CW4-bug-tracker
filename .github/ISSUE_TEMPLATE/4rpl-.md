@@ -1,6 +1,6 @@
 ---
 name: '4RPL '
-about: Request extension to the 4RPL API
+about: Issues and/or extensions to 4RPL API
 title: "[4RPL]"
 labels: 4RPL
 assignees: ''
